@@ -10,9 +10,9 @@ Estou buscando novas oportunidades, trabalhando em novos projetos para meu portf
 
 Aqui está o repositório do meu site Portfolio e o link do deploy com vercel :
 
-https://github.com/RenanMattosGuerra/Portfolio-Website
+[Repositório](https://github.com/RenanMattosGuerra/Portfolio-Website)
 
-https://renan-guerra-portfolio.vercel.app/
+[Site Portfolio](https://renan-guerra-portfolio.vercel.app/)
 
 <!--
 **RenanMattosGuerra/RenanMattosGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
