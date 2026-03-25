@@ -8,7 +8,7 @@ Tenho forte paixão por arte, criatividade e criação no geral.
 
 Estou buscando novas oportunidades, trabalhando em novos projetos para meu portfolio e sempre aprendendo mais!
 
-Veja aqui o [Repositório](https://github.com/RenanMattosGuerra/Portfolio-Website) do meu [Site Portfolio](https://renan-guerra-portfolio.vercel.app/).
+Veja meu [Site Portfolio](https://renan-guerra-portfolio.vercel.app/) e [Repositório](https://github.com/RenanMattosGuerra/Portfolio-Website).
 
 <!--
 **RenanMattosGuerra/RenanMattosGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
