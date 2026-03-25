@@ -2,7 +2,7 @@
 
 Sou Renan, desenvolvedor front-end do Rio de Janeiro (Brasil), formado em Sistemas de Informação.
 
-Minhas principais tecnologias/frameworks são NextJs, Typescript, TailwindCSS, ReactJs e também trabalho com HTML5, CSS3 e Javascript vanilla.
+Minhas principais tecnologias/frameworks são NextJs, Typescript, TailwindCSS, ReactJs, Figma e também trabalho com HTML5, CSS3 e Javascript vanilla.
 
 Tenho forte paixão por arte, criatividade e criação no geral.
 
