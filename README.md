@@ -1,4 +1,18 @@
-## Hi there 👋
+## Olá 👋
+
+Sou Renan, desenvolvedor front-end do Rio de Janeiro (Brasil), formado em Sistemas de Informação.
+
+Minhas principais tecnologias/frameworks são NextJs, Typescript, TailwindCSS, ReactJs e também trabalho com HTML5, CSS3 e Javascript vanilla.
+
+Tenho forte paixão por arte, criatividade e criação no geral.
+
+Estou buscando novas oportunidades, trabalhando em novos projetos para meu portfolio e sempre aprendendo mais!
+
+Aqui está o repositório do meu site Portfolio e o link do deploy com vercel :
+
+https://github.com/RenanMattosGuerra/Portfolio-Website
+
+https://renan-guerra-portfolio.vercel.app/
 
 <!--
 **RenanMattosGuerra/RenanMattosGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
